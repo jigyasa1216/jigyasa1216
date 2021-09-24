@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jigyasa1216" alt="jigyasa1216" /></a> </p>
 
-- 🔭 I’m currently working on **Kotlin and Python.**
+- 🔭 I’m currently working on **Web Development and Python.**
 
-- 🌱 I’m currently learning **UI/UX and Computer Vision.**
+- 🌱 I’m currently learning **DSA, UI/UX and Computer Vision.**
 
 - 🤝 I’m eager to **collaborate and contribute!**
 
