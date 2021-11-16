@@ -15,7 +15,7 @@
 
 - 📫 Find me on [https://www.linkedin.com/in/jigyasa1216/](https://www.linkedin.com/in/jigyasa1216/)
 
-- ⚡ Fun fact: **I love to travel and have fun!**
+- ⚡ Fun fact: **I love to travel and click pictures!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
