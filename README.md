@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web Development and Python.**
 
-- 🌱 I’m currently learning **DSA, UI/UX Design and Computer Vision.**
+- 🌱 I’m also learning **DSA, UI/UX Design and Computer Vision.**
 
 - 🤝 I’m eager to **collaborate and contribute!**
 
