@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jigyasa!</h1>
 <h3 align="center">I love to design with technology!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jigyasa1216" alt="jigyasa1216" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development and Python.**
 
@@ -9,7 +8,7 @@
 
 - 🤝 I’m eager to **collaborate and contribute!**
 
-- 👨‍💻 All of my projects are available at [https://devpost.com/jigyasa12nagpal?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav](https://devpost.com/jigyasa12nagpal?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+- 👨‍💻 All of my projects are available at [https://bit.ly/3Dp0yq2](https://bit.ly/3Dp0yq2)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15QCyTAamOD4B9Y79Ag0CdQdCLdDL750j/view?usp=sharing](https://drive.google.com/file/d/15QCyTAamOD4B9Y79Ag0CdQdCLdDL750j/view?usp=sharing)
 
@@ -32,3 +31,6 @@
 
 ## Snake eating my contribution graph
 ![snake gif](https://github.com/jigyasa1216/jigyasa1216/blob/output/github-contribution-grid-snake.gif)
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jigyasa1216" alt="jigyasa1216" /></a> </p>
