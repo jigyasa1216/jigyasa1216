@@ -53,7 +53,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jigyasa1216&show_icons=true&locale=en&layout=compact" alt="jigyasa1216" /></p>
  
     
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigyasa1216&" alt="jigyasa1216" /></p>
+
    
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=jigyasa1216&theme=react-dark&hide_border=true&area=true)
 ## Watch a 🐍 eating my contribution graph
