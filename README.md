@@ -41,8 +41,9 @@
     
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigyasa1216&" alt="jigyasa1216" /></p>
    
-    
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=jigyasa1216&theme=react-dark&hide_border=true&area=true)
 ## Snake eating my contribution graph
+   
 ![snake gif](https://github.com/jigyasa1216/jigyasa1216/blob/output/github-contribution-grid-snake.gif)
 
 
