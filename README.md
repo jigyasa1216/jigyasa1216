@@ -37,8 +37,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jigyasa1216&show_icons=true&locale=en&layout=compact" alt="jigyasa1216" /></p>
 
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />     
+    
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigyasa1216&" alt="jigyasa1216" /></p>
-
+   
+    
 ## Snake eating my contribution graph
 ![snake gif](https://github.com/jigyasa1216/jigyasa1216/blob/output/github-contribution-grid-snake.gif)
 
