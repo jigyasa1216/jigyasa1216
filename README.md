@@ -44,13 +44,16 @@
 
 ![jigyasa1216 github streak](https://github-readme-streak-stats.herokuapp.com/?user=jigyasa1216&theme=radical&include_all_commits=true&count_private=true)
 
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />         
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jigyasa1216&&theme=radical&show_icons=true&locale=en&layout=compact" alt="jigyasa1216" /></p>
  <div>
 
 -----    
     
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />         
     
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jigyasa1216&show_icons=true&locale=en&layout=compact" alt="jigyasa1216" /></p>
+
  
     
 
