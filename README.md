@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Jigyasa!</h1>
+<p align="center">
+    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+</p>
+
+
+<h1 align="center"> Hello Fellow < Developers/ > I am Jigyasa! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+
+
+
 <h3 align="center">I love to design with technology!</h3>
 
 
