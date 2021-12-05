@@ -10,6 +10,10 @@
 <h3 align="center">I love to design with technology!</h3>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=jigyasa1216.jigyasa1216)
+    
+    
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+    
 - 🔭 I’m currently working on **Web Development and Python.**
 
 - 🌱 I’m also learning **DSA, UI/UX Design and Computer Vision.**
