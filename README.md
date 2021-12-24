@@ -21,6 +21,8 @@
 
 - 🤝 I’m eager to **collaborate and contribute!**
 
+-🎓 I’m a sophomore pursuing **Mechanical and Automation Engineering.**
+
 - 👨‍💻 All of my projects are available at [https://bit.ly/3Dp0yq2](https://bit.ly/3Dp0yq2)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jigyasa1216/](https://www.linkedin.com/in/jigyasa1216/)
