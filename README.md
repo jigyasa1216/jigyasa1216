@@ -23,7 +23,7 @@
 
 - 🎓 I’m a sophomore pursuing **Mechanical and Automation Engineering.**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/3Dp0yq2](https://bit.ly/3Dp0yq2)
+- 👨‍💻 All of my projects are available at: [https://bit.ly/3Dp0yq2](https://bit.ly/3Dp0yq2)
 
 - 📄 Head on to my blog to read some tech articles: [https://jigyasa1216.github.io/Jigyasa-Blog/](https://jigyasa1216.github.io/Jigyasa-Blog//)
 
