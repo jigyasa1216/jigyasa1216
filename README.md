@@ -25,7 +25,7 @@
 
 - 👨‍💻 All of my projects are available at: [https://bit.ly/3Dp0yq2](https://bit.ly/3Dp0yq2)
 
-- 📄 Head on to my blog to read some tech articles: [https://jigyasa1216.github.io/Jigyasa-Blog/](https://jigyasa1216.github.io/Jigyasa-Blog//)
+- 📄 Head on to my blog to read some techy articles: [https://jigyasa1216.github.io/Jigyasa-Blog/](https://jigyasa1216.github.io/Jigyasa-Blog//)
 
 - ⚡ Fun fact: **I love to travel and click pictures!**
 
