@@ -21,7 +21,7 @@
 
 - 🤝 I’m eager to **collaborate and contribute!**
 
-- 🎓 I’m a sophomore pursuing **Mechanical and Automation Engineering.**
+- 🎓 I’m a pre-final year student pursuing **Mechanical and Automation Engineering** from Indira Gandhi Delhi Technical University for Women.
 
 - 👨‍💻 All of my projects are available at: [https://bit.ly/3Dp0yq2](https://bit.ly/3Dp0yq2)
 
