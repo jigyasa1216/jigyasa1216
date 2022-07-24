@@ -23,6 +23,8 @@
 
 - 🎓 I’m a pre-final year student pursuing **Mechanical and Automation Engineering** from Indira Gandhi Delhi Technical University for Women.
 
+- 💻 Contact me for teaming up for a hackathon!
+
 - 👨‍💻 All of my projects are available at: [https://bit.ly/3Dp0yq2](https://bit.ly/3Dp0yq2)
 
 - 📄 Head on to my blog to read some techy articles: [https://jigyasa1216.github.io/Jigyasa-Blog/](https://jigyasa1216.github.io/Jigyasa-Blog//)
