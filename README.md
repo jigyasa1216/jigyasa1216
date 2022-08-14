@@ -19,15 +19,11 @@
     
 - 🔭 I’m currently working on **AI/ML.**
 
-- 🌱 I’m also learning **UI/UX Design and Computer Vision.**
-
 - 🤝 I’m eager to **collaborate and contribute!**
 
 - 🎓 I’m a pre-final year student pursuing **Mechanical and Automation Engineering** from Indira Gandhi Delhi Technical University for Women.
 
 - 📚 Find me on Leetcode: https://leetcode.com/jigyasa1216/
-
-- 💻 Contact me for teaming up for a hackathon!
 
 - 👨‍💻 All of my projects are available at: [https://bit.ly/3Dp0yq2](https://bit.ly/3Dp0yq2)
 
