@@ -23,7 +23,7 @@
 
 - 🎓 I’m a pre-final year student pursuing **Mechanical and Automation Engineering** from Indira Gandhi Delhi Technical University for Women.
 
-- 📚 Find me on Leetcode: https://leetcode.com/jigyasa1216/
+- 📚 Solve with me on Leetcode: https://leetcode.com/jigyasa1216/
 
 - 👨‍💻 All of my projects are available at: [https://bit.ly/3Dp0yq2](https://bit.ly/3Dp0yq2)
 
