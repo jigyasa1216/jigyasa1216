@@ -15,7 +15,9 @@
     
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
     
-- 💼 I'm an intern at **Binance.**   
+- 💼 I'm a Product Marketing & Operations intern at **Binance.**  
+
+- 💰 I'm a huge **crypto** enthusiast & love teaching people about it.
     
 - 🔭 I’m currently working on **AI/ML.**
 
