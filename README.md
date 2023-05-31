@@ -19,7 +19,7 @@
 
 - 💰 I'm a huge **crypto** enthusiast & love teaching people about it.
     
-- 🔭 I’m currently working on **AI/ML.**
+- 🔭 I’m currently working on **AI/ML & DSA.**
 
 - 🤝 I’m eager to **collaborate and contribute!**
 
