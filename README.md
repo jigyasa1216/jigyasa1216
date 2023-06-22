@@ -27,7 +27,7 @@
 
 - 📚 Solve with me on Leetcode: https://leetcode.com/jigyasa1216/
 
-- 👨‍💻 All of my projects are available at: [https://bit.ly/3Dp0yq2](https://bit.ly/3Dp0yq2)
+- 👨‍💻 All of my projects are available at Devpost: [https://bit.ly/3Dp0yq2](https://bit.ly/3Dp0yq2)
 
 - 📄 Head on to my blog to read some techy articles: [https://jigyasa1216.github.io/Jigyasa-Blog/](https://jigyasa1216.github.io/Jigyasa-Blog//)
 
